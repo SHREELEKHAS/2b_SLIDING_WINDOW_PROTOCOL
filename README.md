@@ -62,4 +62,4 @@ s.close()
 ![Screenshot 2024-03-10 191718](https://github.com/SHREELEKHAS/2b_SLIDING_WINDOW_PROTOCOL/assets/149768910/b7d1149a-44d8-4828-8afb-f6ace689f85a)
 
 ## RESULT:
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform implementation of sliding window protocol was successfully executed
